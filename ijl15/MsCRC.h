@@ -2,7 +2,7 @@
 #include "stdafx.h"
 #include <Windows.h>
 // 在此修改版本
-#define MsVer 120
+#define MsVer 113
 
 DWORD ulMsCrcStart = 0x00401000; // static
 DWORD ulMsCrcEnd = ulMsCrcStart; // modify as needed
